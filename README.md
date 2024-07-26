@@ -14,19 +14,19 @@ This repository contains a collection of ad-hoc SQL queries designed to analyze 
 
 ## SQL Queries and Descriptions 📝
 
-### <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 1. High-Value Discounted Products 
+### 1. High-Value Discounted Products <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 
 **Objective**: Identify products with a base price greater than 500 that are featured in a 'BOGOF' (Buy One Get One Free) promotion. This helps evaluate pricing and promotion strategies.
 
-### 2. Store Presence by City
+### 2. Store Presence by City <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 
 **Objective**: Generate a report of the number of stores in each city, sorted in descending order of store counts. This helps optimize retail operations.
 
-### 3. Campaign Revenue Report
+### 3. Campaign Revenue Report <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 
 **Objective**: Display each campaign's total revenue generated before and after the campaign. This helps evaluate the financial impact of promotional campaigns. (Values are displayed in millions).
 
-### 4. Incremental Sold Quantity (ISU%) During Diwali Campaign
+### 4. Incremental Sold Quantity (ISU%) During Diwali Campaign <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 
 **Objective**: Calculate the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign and provide rankings based on their ISU%. This helps assess the category-wise success and impact of the Diwali campaign on incremental sales.
 
-### 5. Top 5 Products by Incremental Revenue Percentage (IR%)
+### 5. Top 5 Products by Incremental Revenue Percentage (IR%) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture> 
 **Objective**: Identify the top 5 products ranked by Incremental Revenue Percentage (IR%) across all campaigns. This helps identify the most successful products in terms of incremental revenue.
 
 ## Features 🌟
