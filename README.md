@@ -14,7 +14,7 @@ This repository contains a collection of ad-hoc SQL queries designed to analyze 
 
 ## SQL Queries and Descriptions 📝
 
-### 1. High-Value Discounted Products 
+### 1. High-Value Discounted Products <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32"></picture>
 **Objective**: Identify products with a base price greater than 500 that are featured in a 'BOGOF' (Buy One Get One Free) promotion. This helps evaluate pricing and promotion strategies.
 
 ### 2. Store Presence by City
