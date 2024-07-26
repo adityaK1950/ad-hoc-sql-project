@@ -37,7 +37,7 @@ This repository contains a collection of ad-hoc SQL queries designed to analyze 
 - Calculate and rank Incremental Sold Quantity (ISU%) during specific campaigns.
 - Identify top products by Incremental Revenue Percentage (IR%).
 
-## Getting Started 🚀
+## Getting Started 🚀🚀
 
 ### Prerequisites
 
