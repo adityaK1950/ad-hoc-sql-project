@@ -69,7 +69,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Contact Us 📧
 
-If you have any questions, need further assistance or suggestions, please feel free to contact us at  [email](mailto:adityakakadeoffice@gmail.com) (<Click here) adityakakadeoffice@gmail.com.
+If you have any questions, need further assistance or suggestions, please feel free to contact us at  [email](mailto:adityakakadeoffice@gmail.com) 
 OR  
 Reach out to us using the [Contact Form](https://forms.gle/cEcJ9uEiz1XVbsuw8).
 
